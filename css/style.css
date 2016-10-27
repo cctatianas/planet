@@ -1,0 +1,35 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient( to left top, cadetblue, black); 
+    background-repeat: no-repeat; 
+}
+
+.container{
+  margin-top: auto;
+  width: 100%;
+}
+
+.blueplanet{
+    width: 30%;
+    height: 400px;
+    background: radial-gradient(at 90% 1%,rgba(30, 62, 77, 0.83) 47%,#f2fdfd 101%);    border-radius: 50%;
+    position: absolute;
+    left: 451px;
+    top: 41px;
+}
+ 
+  .cinturon{
+    width: 900px;
+    height: 200px;
+    background: radial-gradient(at 60% 30%,rgba(18, 47, 70, 0) 40%,#FF5722 100%);
+    border-radius: 50%;
+    position: absolute;
+    left: 195px;
+    top: 164px;
+}
+
+
+
